@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn Reactjs",
+      "day": "March 18th at 2:00pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meet with Project Supervisor",
+      "day": "March 19th at 10:00am",
+      "reminder": true
+    },
+    {
+      "text": "Do data mining",
+      "day": "March 20th",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Cook",
+      "day": "May 21st ",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
